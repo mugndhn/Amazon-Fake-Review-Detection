@@ -5,10 +5,12 @@ Authors: Sittun Swayam Prakash, Atrima Ghosh, Parth Iramani, Zoe Masood, Jenna G
 
 # DESCRIPTION:
 
-The aim of our project is to detect fake reviews on Amazon using the review text. Our approach combines semi-supervised learning and transformer models to identify fake Amazon reviews.
-The end product of our project is a web application which will allow the user to predict whether a review is fake or real.
+The aim of our project is to detect fake reviews on Amazon using the review text. Our approach combines semi-supervised learning and transformer models to identify fake Amazon reviews. The end product of our project is a web application which will allow the user to predict whether a review is fake or real. 
+
 The Datasets used in our projects are:
+
 Labelled Dataset from Kaggle - https://www.kaggle.com/lievgarcia/amazon-reviews
+
 Unlabelled dataset from Amazon - https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_multilingual_US_v1_00.tsv.gz
 
 Following are the steps involved in creating and evaluation of the Model to predict fake reviews using review text:
